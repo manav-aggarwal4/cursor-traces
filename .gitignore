@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Generated output files (can be regenerated)
+llm_traces.jsonl
+sessions.json
+reasoning_traces.json
+extracted_text.json
+extracted_text_all.json
+extracted_text/
+
+# Keep reasoning_traces.txt as example output
+# reasoning_traces.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test data (optional - uncomment if you don't want to track test repos)
+# swe_bench_test/
+

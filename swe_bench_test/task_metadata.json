@@ -1,0 +1,6 @@
+{
+  "instance_id": "django__django-test",
+  "repo": "django/django",
+  "base_commit": null,
+  "problem_statement": "Test task for LLM tracer - Django repository. Open this in Cursor and trigger the agent."
+}
